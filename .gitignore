@@ -2,11 +2,6 @@
 *.csv
 
 # Ignore the entire Model folder
-Model/
-
-# Allow tracking of files in the Model folder
-!Model/*
-
 # Ignore node_modules and other package directories
 node_modules/
 Frontend/node_modules/

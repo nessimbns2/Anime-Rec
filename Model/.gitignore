@@ -1,0 +1,11 @@
+# Ignore all CSV files
+*.csv
+
+# Ignore the entire Model folder
+Model/
+
+# Allow tracking of files in the Model folder
+!Model/*
+
+# Link to the GitHub repository
+# https://github.com/nessimbns2/Anime-Rec
